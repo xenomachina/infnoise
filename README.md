@@ -1,4 +1,4 @@
-﻿##Infinite Noise TRNG (True Random Number Generator)
+###Infinite Noise TRNG (True Random Number Generator)
 
 For instructions for compiling the and using Infinite Noise TRNG driver, go to the software
 sub-directory, and read the [README](software/README) file there.  Both Linux and Windows
@@ -39,6 +39,7 @@ board with standard parts, or on an custom chip.
 
 ### Purchase the Infinite Noise TRNG
 ![Infinite Noise TRNG by 13-37.org](images/infnoise_transparent_small.JPG?raw=true "Infinite Noise TRNG by 13-37.org")
+
 13-37.org open electronics is now fundraising to start a small series production of the Infinite Noise TRNG. 
 Shipping will start end of December 2017.
 
