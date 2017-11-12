@@ -37,9 +37,17 @@ version called [the Redoubler](https://github.com/alwynallan/redoubler), which
 is awesome.  It really is the _right_ way to generate random bits, whether on a
 board with standard parts, or on an custom chip.
 
+### Purchase the Infinite Noise TRNG
+![Infinite Noise TRNG by 13-37.org](images/infnoise_transparent.JPG?raw=true "Infinite Noise TRNG by 13-37.org")
+13-37.org open electronics is now fundraising to start a small series production of the Infinite Noise TRNG. 
+Shipping will start end of December 2017.
+
+Subscribe to our pre-launch [newsletter at 13-37.org](13-37.org) to stay always up to date 
+and get one of the 25 limited early bird offers for 20 €.
+
 ### The Eagle open-source boards work!
 
-Here is the first completed Infinite Noise USB key.  I offered this modle on
+Here is the first completed Infinite Noise USB key.  I offered this model on
 Tindie to help get the modular entropy multiplier concept out there initially.
 
 ![Picture of Infinite Noise USB key](images/infnoise_key.jpg?raw=true "Infinite Noise USB key")
