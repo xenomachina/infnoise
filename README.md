@@ -40,10 +40,10 @@ board with standard parts, or on an custom chip.
 ### Purchase the Infinite Noise TRNG
 ![Infinite Noise TRNG by 13-37.org](images/infnoise_transparent_small.JPG?raw=true "Infinite Noise TRNG by 13-37.org")
 
-13-37.org open electronics is now fundraising to start a small series production of the Infinite Noise TRNG. 
+13-37.org electronics is now fundraising to start a small series production of the Infinite Noise TRNG. 
 Shipping will start end of December 2017.
 
-Subscribe to our pre-launch [newsletter at 13-37.org](https://13-37.org) to get notified when the campaign launches.
+Subscribe to our pre-launch [newsletter](https://13-37.org) at 13-37.org to get notified when the campaign launches.
 
 ### The Eagle open-source boards work!
 
