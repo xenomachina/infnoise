@@ -173,7 +173,7 @@ static bool initializeUSB(struct ftdi_context *ftdic, char **message, char *seri
 	if (serial == NULL) {
             // more than one found and no serial given
             if (rc >= 2) {
-		fprintf(stderr,"Multiple Infnoise TRNGs found and serial not specified, using the first one!");
+		fprintf(stderr,"Multiple Infnoise TRNGs found and serial not specified, using the first one!\n");
             }
             if (ftdi_usb_open(ftdic, INFNOISE_VENDOR_ID, INFNOISE_PRODUCT_ID) < 0) {
                 if(!isSuperUser()) {
