@@ -17,9 +17,6 @@
 #include "infnoise.h"
 #include "KeccakF-1600-interface.h"
 
-#define VEND_ID 0x0403
-#define PROD_ID 0x6015
-
 // Extract the INM output from the data received.  Basically, either COMP1 or COMP2
 // changes, not both, so alternate reading bits from them.  We get 1 INM bit of output
 // per byte read.  Feed bits from the INM to the health checker.  Return the expected
