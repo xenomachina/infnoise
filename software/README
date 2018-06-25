@@ -29,7 +29,7 @@ Repositories for Ubuntu, Debian and Raspbian are also available. To add them fol
     Verify the keys fingerprint:
     
     # GPG1
-    $ gpg --with-fingerprints 13-37.org-code.asc
+    $ gpg --with-fingerprint 13-37.org-code.asc
     # GPG2:
     $ gpg2 --import-options import-show --dry-run --import < 13-37.org-code.asc
     
